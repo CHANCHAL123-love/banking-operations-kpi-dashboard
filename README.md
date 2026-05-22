@@ -102,7 +102,7 @@ Board-ready insight page
 ├── dataset_generator/
 │   └── generate_dataset.py
 ├── dashboard/
-│   └── AU_Bank_KPI_Dashboard.pbix
+│   └── Banking Operations Dashboard.pbix
 ├── screenshots/
 │   ├── page1_operations_overview.png
 │   ├── page2_bottleneck_deepdive.png
